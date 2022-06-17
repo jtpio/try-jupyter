@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-plotly",
-  "version": "5.8.1",
+  "version": "5.8.2",
   "description": "The plotly Jupyter extension",
   "author": "The plotly.py team",
   "license": "MIT",
@@ -78,7 +78,7 @@
       }
     },
     "_build": {
-      "load": "static/remoteEntry.d5a1f5ba1f93b6166f5d.js",
+      "load": "static/remoteEntry.e2bf80f6515beeab9026.js",
       "extension": "./extension",
       "mimeExtension": "./mimeExtension"
     }
