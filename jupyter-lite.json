@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "Try Jupyter!",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.13",
+    "appVersion": "0.1.0-beta.14",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "disabledExtensions": [
