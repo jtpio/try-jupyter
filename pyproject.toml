@@ -8,7 +8,7 @@ channels = ["conda-forge"]
 platforms = ["linux-64", "osx-64", "win-64", "osx-arm64"]
 
 [tool.pixi.tasks]
-clean = "rm -rf .jupyterlite.doit.df dist"
+clean = "rm -rf .jupyterlite.doit.db dist"
 build = "jupyter lite build"
 filter-kernels = "python scripts/filter_xeus_kernels.py dist"
 add-plausible = "python scripts/add_plausible.py dist"
@@ -32,10 +32,10 @@ jupyterlab-language-pack-zh-cn = ">=4.4.post3,<5"
 jupyterlab-fasta = ">=3.3.0"
 jupyterlab-geojson = ">=3.4.0"
 jupyterlab-night = ">=0.5.2,<0.6"
-jupyterlite-core = ">=0.7.1,<0.8"
+jupyterlite-core = ">=0.7.6,<0.8"
 jupyterlite-pyodide-kernel = ">=0.7.0,<0.8"
-jupyterlite-terminal = ">=1.1.0,<2"
-jupyterlite-xeus = ">=4.4.0,<5"
+jupyterlite-terminal = ">=1.4.1,<2"
+jupyterlite-xeus = ">=4.5.2,<5"
 notebook = ">=7.5.1,<8"
 pip = ">=25.3,<26"
 plotly = ">=6"

@@ -100,10 +100,10 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-3.0.16-pyhcf101f3_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.1-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.6-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-pyodide-kernel-0.7.0-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.1.0-pyhd8ed1ab_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.4.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.4.1-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/keyutils-1.6.3-hb9d3cd8_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.4.9-py314h97ea11e_2.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/krb5-1.21.3-h659f571_0.conda
@@ -378,10 +378,10 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-3.0.16-pyhcf101f3_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.1-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.6-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-pyodide-kernel-0.7.0-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.1.0-pyhd8ed1ab_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.4.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.4.1-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/kiwisolver-1.4.9-py314hf3ac25a_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/krb5-1.21.3-h37d8d59_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/lark-1.3.1-pyhd8ed1ab_0.conda
@@ -653,10 +653,10 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-3.0.16-pyhcf101f3_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.1-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.6-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-pyodide-kernel-0.7.0-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.1.0-pyhd8ed1ab_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.4.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.4.1-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/kiwisolver-1.4.9-py314h42813c9_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/krb5-1.21.3-h237132a_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/lark-1.3.1-pyhd8ed1ab_0.conda
@@ -926,10 +926,10 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_pygments-0.3.0-pyhd8ed1ab_2.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_server-2.28.0-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlab_widgets-3.0.16-pyhcf101f3_1.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.1-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.6-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-pyodide-kernel-0.7.0-pyhcf101f3_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.1.0-pyhd8ed1ab_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.4.0-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.4.1-pyhd8ed1ab_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.5.2-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/kiwisolver-1.4.9-py314hf309875_2.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/krb5-1.21.3-hdf4eb48_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/lark-1.3.1-pyhd8ed1ab_0.conda
@@ -3088,19 +3088,20 @@ packages:
   - pkg:pypi/jupyterlab-widgets?source=compressed-mapping
   size: 216779
   timestamp: 1762267481404
-- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.1-pyhcf101f3_0.conda
-  sha256: 65572950bb2a48f17179084469ddc0fcaa41f41f9f9fbfcd27f480666e3cac88
-  md5: b8e1f542770b5f88b663012fc77f9628
+- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-core-0.7.6-pyhcf101f3_0.conda
+  sha256: 9e1695d5938108729f1eea06570a7e8bc6358007e0f8eef71274ef6960f6404f
+  md5: 9885a00885bacfbf539e079a8aef0148
   depends:
   - doit >=0.34,<1
   - jupyter_core >=4.7
   - python >=3.10
   - python
   license: BSD-3-Clause
+  license_family: BSD
   purls:
-  - pkg:pypi/jupyterlite-core?source=compressed-mapping
-  size: 16232678
-  timestamp: 1765899626545
+  - pkg:pypi/jupyterlite-core?source=hash-mapping
+  size: 16368368
+  timestamp: 1778140664671
 - conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-pyodide-kernel-0.7.0-pyhcf101f3_0.conda
   sha256: 0ddc2c61c39f17106a825c4cef938133b14b32ee25472db4d67ca71e2aa2d5e6
   md5: 97624651e6fc9ca05effe0b4a80766e3
@@ -3114,25 +3115,25 @@ packages:
   - pkg:pypi/jupyterlite-pyodide-kernel?source=hash-mapping
   size: 359192
   timestamp: 1764169495508
-- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.1.0-pyhd8ed1ab_0.conda
-  sha256: 550757559b7d7e6774ba9885daf84ad47018a10bdaa0fd112235c2b1b0d97492
-  md5: adaea0b76c6cd4d6b1e8ad6472b33d55
+- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-terminal-1.4.1-pyhd8ed1ab_0.conda
+  sha256: a1df8ad0c43f35ba9c916f6772a7a2412dfbf0fc8b700556b28d6894fffa3c60
+  md5: 9c9acb11bb4d997f77188a596aa1c6d7
   depends:
-  - jupyterlite-core >=0.6,<0.8.0
+  - jupyterlite-core >=0.7,<0.8.0,!=0.7.4,!=0.7.5
   - python >=3.10
   license: BSD-3-Clause
   license_family: BSD
   purls:
   - pkg:pypi/jupyterlite-terminal?source=hash-mapping
-  size: 71930
-  timestamp: 1761558174339
-- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.4.0-pyhd8ed1ab_0.conda
-  sha256: 7f919a1e41e94b324f118087bb2df4a7cbd7385d2da8e79b40b1be9d77959fa1
-  md5: ee3cdc79db87d6c42d1672ae586df035
+  size: 73882
+  timestamp: 1778762527785
+- conda: https://conda.anaconda.org/conda-forge/noarch/jupyterlite-xeus-4.5.2-pyhd8ed1ab_0.conda
+  sha256: 9151d843127dcbf3ab1236f530c94721bff7fc43026edfbe64727fb603278d01
+  md5: 9bb8a2c95f1cfecb6231286a313b1aa5
   depends:
   - empack >=5.1.1,<7
   - jupyterlite-core >=0.7,<0.8
-  - micromamba 2.0.5.*
+  - micromamba
   - python >=3.10
   - pyyaml
   - requests
@@ -3141,8 +3142,8 @@ packages:
   license_family: BSD
   purls:
   - pkg:pypi/jupyterlite-xeus?source=hash-mapping
-  size: 2095271
-  timestamp: 1768219160758
+  size: 2131738
+  timestamp: 1776264553234
 - conda: https://conda.anaconda.org/conda-forge/linux-64/keyutils-1.6.3-hb9d3cd8_0.conda
   sha256: 0960d06048a7185d3542d850986d807c6e37ca2e644342dd0c72feefcf26c2a4
   md5: b38117a3c920364aff79f870c984b4a3

@@ -16,7 +16,7 @@ KNOWN_WARNINGS_BY_NOTEBOOK = {
     "cpp.ipynb": [
         "some error"
     ],
-    "cpp-smallpt.ipynb": [],
+    "cpp-tiny-ray-tracer.ipynb": [],
     "cpp-third-party-libs.ipynb": [],
     "sqlite.ipynb": [
         "Error: no such table: players",
